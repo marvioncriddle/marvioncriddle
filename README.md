@@ -1,3 +1,6 @@
+kramdown:
+  input: Kramdown
+
 <h1>Hi, I'm Marvion! <br/><a href="https://www.linkedin.com/in/joshmadakor/">NOC/SOC Analyst, Service Desk Analyst</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
