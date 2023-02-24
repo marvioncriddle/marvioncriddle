@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Active Directory Home Labs</b>
-  - [Lab 1](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Lab 1]([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/marvioncriddle/activeDirectoryLab))
 - <b>Linux</b>
   - [Lab 1](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
 - <b>PowerShell</b>
