@@ -10,6 +10,8 @@
   - [Lab 1](https://github.com/joshmadakor1/Sentinel-Lab)
 - <b>Python</b>
   - [Lab 1](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - - <b>GRC</b>
+  - [Lab 1](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2>📜 Certifications</h2>
 
