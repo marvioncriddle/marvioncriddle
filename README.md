@@ -2,6 +2,10 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+- <b>Microsoft Azure</b>
+  - [activeDirectoryLab - Batch Creating Users](https://github.com/marvioncriddle/activeDirectoryLab)
+- <b>Amazon Web Services</b>
+  - [activeDirectoryLab - Batch Creating Users](https://github.com/marvioncriddle/activeDirectoryLab)
 - <b>Active Directory Home Labs</b>
   - [activeDirectoryLab - Batch Creating Users](https://github.com/marvioncriddle/activeDirectoryLab)
 - <b>Migrating Starlight University's Data Center to the Cloud - BSIT Capstone</b>
