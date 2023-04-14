@@ -4,6 +4,8 @@
 
 - <b>Active Directory Home Labs</b>
   - [activeDirectoryLab - Batch Creating Users](https://github.com/marvioncriddle/activeDirectoryLab)
+- <b>Migrating Starlight University's Data Center to the Cloud - BSIT Capstone</b>
+  - [Lab 1](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 - <b>Linux</b>
   - [linuxLabWork - Adjusting Permissions](https://github.com/marvioncriddle/linuxLabWork)<b><i></b></i>
 - <b>PowerShell</b>
