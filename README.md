@@ -21,7 +21,7 @@
 
 <h2>📜 Certifications</h2>
 
-- [CAPM](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [CAPM](IN PROGRESS - SPRING '23)
 - [CompTIA Security Analytics Professional](https://www.credly.com/badges/31fca9ba-0401-484e-b715-2d994d3a1dd8/public_url)
 - [CompTIA CySA+](https://www.credly.com/badges/a44b41dc-17d6-4efd-b154-06825dddfe50/public_url)
 - [CompTIA Security+](https://www.credly.com/badges/1d1293a5-ed72-4d3a-9f0a-e83c5fbb8179/public_url)
