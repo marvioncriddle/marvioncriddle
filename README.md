@@ -67,8 +67,6 @@
 
 [twitter]: https://twitter.com/ByteCyzeNetwrks
 [linkedin]: https://www.linkedin.com/in/marvioncriddle/
-[medium]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
 
 
 <!--
