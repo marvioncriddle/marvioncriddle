@@ -21,7 +21,7 @@
 
 <h2>📜 Certifications</h2>
 
-<b>[IN PROGRESS - SPRING '23]</b>
+<b>IN PROGRESS - SPRING '23</b>
  - Azure AZ-500:  Azure Security Engineer Associate
  - PMI CAPM:  Certified Associate in Project Management
 
