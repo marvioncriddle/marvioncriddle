@@ -34,11 +34,11 @@
 <b>Microsoft:</b> 
 - [Azure SC-900:  Microsoft Security, Compliance, and Identity Fundamentals](https://www.credly.com/badges/28df03fc-f439-44c9-902d-93d7f29e1315/public_url)
 - [Azure AZ-900:  Azure Fundamentals](https://www.credly.com/badges/28df03fc-f439-44c9-902d-93d7f29e1315/public_url)
-- [MTA: Security Fundamentals](https://www.credly.com/badges/4a1ec7fe-4112-4597-80c1-8cefc0ec1383/public_url)
-- [MTA: Networking Fundamentals](https://www.credly.com/badges/4ae36cbd-f9d3-40b6-ab68-4244ecc15558/public_url)
-- [MTA: Database Fundamentals](https://www.credly.com/badges/45d574b1-b36d-498a-add7-9c94a2353fb4/public_url)
-- [MTA: Windows Operating System Fundamentals](https://www.credly.com/badges/c6e1d202-48f0-40f3-be9c-10b48834604b/public_url)
-- [MTA: Software Development Fundamentals](https://www.credly.com/badges/45fb6a33-01e9-4f0a-9c03-47dfec382e1d/public_url)
+- [MTA 98-367: Security Fundamentals](https://www.credly.com/badges/4a1ec7fe-4112-4597-80c1-8cefc0ec1383/public_url)
+- [MTA 98-366: Networking Fundamentals](https://www.credly.com/badges/4ae36cbd-f9d3-40b6-ab68-4244ecc15558/public_url)
+- [MTA 98-364: Database Fundamentals](https://www.credly.com/badges/45d574b1-b36d-498a-add7-9c94a2353fb4/public_url)
+- [MTA 98-349: Windows Operating System Fundamentals](https://www.credly.com/badges/c6e1d202-48f0-40f3-be9c-10b48834604b/public_url)
+- [MTA 98-361: Software Development Fundamentals](https://www.credly.com/badges/45fb6a33-01e9-4f0a-9c03-47dfec382e1d/public_url)
 
 <b>Other:</b>
 - [LPI Linux Essentials](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000556881/hp67y36ekw)
