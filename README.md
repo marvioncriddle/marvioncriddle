@@ -61,7 +61,6 @@
 
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="MarvionCriddle | Medium" width="22px" src="http://www.w3.org/2000/svg" />][medium]
 
 [twitter]: https://twitter.com/ByteCyzeNetwrks
 [linkedin]: https://www.linkedin.com/in/marvioncriddle/
