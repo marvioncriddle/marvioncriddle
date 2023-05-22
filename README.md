@@ -43,10 +43,10 @@
 <b>Other:</b>
 - [LPI Linux Essentials](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000556881/hp67y36ekw)
 - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/d22d02b4-ffde-4358-83d4-544778fb1cdc/public_url)
-- [Apple App Development with Swift Associate](https://www.credly.com/badges/9e2f5219-6ac5-4ea3-8a7b-01da96214e7c/public_url)
+- [Cisco Cybersecurity Essentials](https://www.credly.com/badges/6ec6f000-48e9-4f84-83a1-a9e2000c63f9/public_url)
 - [Google IT Support Certificate](https://www.credly.com/badges/176077e3-f584-468e-9e70-be2e5a9c2c60/public_url)
 - [Google/CompTIA dual credential](https://www.credly.com/badges/d0d16c14-50c6-45ad-9d8f-53f5c8c57008/public_url)
-- [Cisco Cybersecurity Essentials](https://www.credly.com/badges/6ec6f000-48e9-4f84-83a1-a9e2000c63f9/public_url)
+- [Apple App Development with Swift Associate](https://www.credly.com/badges/9e2f5219-6ac5-4ea3-8a7b-01da96214e7c/public_url)
 - [Certiport:  Living Online](https://www.credly.com/badges/612fe89d-e721-4634-a21c-e563ac9a74ed/public_url)
 
   
