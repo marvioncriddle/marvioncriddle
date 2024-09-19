@@ -1,4 +1,4 @@
-<h1>Hi, I'm Marvion! <br/><a href="https://www.linkedin.com/in/joshmadakor/">NOC/SOC Analyst, Service Desk Analyst</a></h1>
+<h1>Hi, I'm Marvion! <br/><a href="https://www.linkedin.com/in/marvioncriddle//">Information Security Analyst</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
@@ -19,16 +19,12 @@
 - <b>GRC</b>
   - [Lab 1](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-<h2>Degrees</h2>
- -
+<h2>Education</h2>
+- [Master of Science, Information Technology Management:  Western Governors University]
+- [Bachelor of Science, Information Technology:  Western Governors University]
+- [Associate of Applied Science, Cybersecurity:  Vance-Granville Community College]
 
 <h2>📜 Certifications and Credentials</h2>
-
-<b>Upcoming - In Progress</b>
- - ITIL 
- - Microsoft SC-300:  
- - Azure AZ-500:  Azure Security Engineer Associate
- - PMI CAPM:  Certified Associate in Project Management
 
 <b>CompTIA:</b> 
 - [CompTIA Security Analytics Professional](https://www.credly.com/badges/31fca9ba-0401-484e-b715-2d994d3a1dd8/public_url)
@@ -56,7 +52,11 @@
 - [Apple App Development with Swift Associate](https://www.credly.com/badges/9e2f5219-6ac5-4ea3-8a7b-01da96214e7c/public_url)
 - [Certiport:  Living Online](https://www.credly.com/badges/612fe89d-e721-4634-a21c-e563ac9a74ed/public_url)
 
-  
+<b>Upcoming - In Progress</b>
+- ITIL4 Foundation:  IT Service Management Certification
+- Microsoft SC-300:  Identity and Access Administrator
+- Azure AZ-500:  Azure Security Engineer Associate
+- PMI CAPM:  Certified Associate in Project Management
 
 
 <h2>📺 Popular YouTube Videos</h2>
