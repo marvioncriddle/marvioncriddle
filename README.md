@@ -45,14 +45,14 @@
 - [MTA 98-361: Software Development Fundamentals](https://www.credly.com/badges/45fb6a33-01e9-4f0a-9c03-47dfec382e1d/public_url)
 
 <b>Other:</b>
-- [Zscaler Internet Access (ZIA) Certified Administrator](https://verify.skilljar.com/c/2fknrksntukq)
-- [LPI Linux Essentials](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000556881/hp67y36ekw)
-- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/d22d02b4-ffde-4358-83d4-544778fb1cdc/public_url)
-- [Cisco Cybersecurity Essentials](https://www.credly.com/badges/6ec6f000-48e9-4f84-83a1-a9e2000c63f9/public_url)
-- [Google IT Support Certificate](https://www.credly.com/badges/176077e3-f584-468e-9e70-be2e5a9c2c60/public_url)
+- [Zscaler:  Zscaler Internet Access (ZIA) Certified Administrator](https://verify.skilljar.com/c/2fknrksntukq)
+- [LPI:  Linux Essentials](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000556881/hp67y36ekw)
+- [AWS:  Certified Cloud Practitioner](https://www.credly.com/badges/d22d02b4-ffde-4358-83d4-544778fb1cdc/public_url)
+- [Cisco:  Cybersecurity Essentials](https://www.credly.com/badges/6ec6f000-48e9-4f84-83a1-a9e2000c63f9/public_url)
+- [Google:  Google IT Support Certificate](https://www.credly.com/badges/176077e3-f584-468e-9e70-be2e5a9c2c60/public_url)
 - [Google/CompTIA dual credential](https://www.credly.com/badges/d0d16c14-50c6-45ad-9d8f-53f5c8c57008/public_url)
-- [Apple App Development with Swift Associate](https://www.credly.com/badges/9e2f5219-6ac5-4ea3-8a7b-01da96214e7c/public_url)
-- [Certiport:  Living Online](https://www.credly.com/badges/612fe89d-e721-4634-a21c-e563ac9a74ed/public_url)
+- [Apple:  Apple App Development with Swift Associate](https://www.credly.com/badges/9e2f5219-6ac5-4ea3-8a7b-01da96214e7c/public_url)
+- [IC3:  Living Online](https://www.credly.com/badges/612fe89d-e721-4634-a21c-e563ac9a74ed/public_url)
 
 <b>Upcoming - In Progress</b>
 - ITIL4 Foundation:  IT Service Management Certification
