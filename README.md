@@ -1,6 +1,6 @@
 # Hi, I'm Marvion! | [Information Security Analyst](https://www.linkedin.com/in/marvioncriddle//)
 
-## 👨‍💻 Cybersecurity Projects
+## 👨🏾‍💻 Cybersecurity Projects
 
 - ### Microsoft Azure
   - [activeDirectoryLab - Batch Creating Users](https://github.com/marvioncriddle/activeDirectoryLab)
