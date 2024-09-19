@@ -20,10 +20,9 @@
   - [Lab 1](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2>Education</h2>
-- [CompTIA Security Analytics Professional](https://www.credly.com/badges/31fca9ba-0401-484e-b715-2d994d3a1dd8/public_url)
-- [Master of Science, Information Technology Management:  Western Governors University]
-- [Bachelor of Science, Information Technology:  Western Governors University]
-- [Associate of Applied Science, Cybersecurity:  Vance-Granville Community College]
++ [Master of Science, Information Technology Management:  Western Governors University]
++ [Bachelor of Science, Information Technology:  Western Governors University]
++ [Associate of Applied Science, Cybersecurity:  Vance-Granville Community College]
 
 <h2>📜 Certifications and Credentials</h2>
 
