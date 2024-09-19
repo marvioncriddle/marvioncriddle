@@ -20,9 +20,10 @@
   - [Lab 1](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2>Education</h2>
-+ [Master of Science, Information Technology Management:  Western Governors University]
-+ [Bachelor of Science, Information Technology:  Western Governors University]
-+ [Associate of Applied Science, Cybersecurity:  Vance-Granville Community College]
++ [Master of Science, Information Technology Management: Western Governors University]
++ [Bachelor of Science, Information Technology: Western Governors University]
++ [Associate of Applied Science, Cybersecurity: Vance-Granville Community College]
+
 
 <h2>📜 Certifications and Credentials</h2>
 
