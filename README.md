@@ -1,8 +1,9 @@
-<h1>Hi, I'm Marvion! <br/><a href="https://www.linkedin.com/in/marvioncriddle//">Information Security Analyst</a></h1>
+# Hi, I'm Marvion!
+[Information Security Analyst](https://www.linkedin.com/in/marvioncriddle//)
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+## 👨‍💻 Cybersecurity Projects
 
-- <b>Microsoft Azure</b>
+- ### Microsoft Azure
   - [activeDirectoryLab - Batch Creating Users](https://github.com/marvioncriddle/activeDirectoryLab)
 - <b>Amazon Web Services</b>
   - [activeDirectoryLab - Batch Creating Users](https://github.com/marvioncriddle/activeDirectoryLab)
@@ -20,10 +21,10 @@
   - [Lab 1](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 
-<h2>Education:</h2> 
-- Master of Science, Information Technology Management: Western Governors University
-- Bachelor of Science, Information Technology: Western Governors University
-- Associate of Applied Science, Cybersecurity: Vance-Granville Community College
+## Education
+- Master of Science, Information Technology Management:  Western Governors University
+- Bachelor of Science, Information Technology:  Western Governors University
+- Associate of Applied Science, Cybersecurity:  Vance-Granville Community College
 
 
 <h2>📜 Certifications and Credentials</h2>
