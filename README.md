@@ -20,21 +20,21 @@
   - [Lab 1](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 
-## Education
+## 🎓 Education
 - Master of Science, Information Technology Management:  Western Governors University
 - Bachelor of Science, Information Technology:  Western Governors University
 - Associate of Applied Science, Cybersecurity:  Vance-Granville Community College
 
 
-<h2>📜 Certifications and Credentials</h2>
+## 📜 Certifications and Credentials
 
-<b>CompTIA:</b> 
+### CompTIA
 - [CompTIA Security Analytics Professional](https://www.credly.com/badges/31fca9ba-0401-484e-b715-2d994d3a1dd8/public_url)
 - [CompTIA CySA+](https://www.credly.com/badges/a44b41dc-17d6-4efd-b154-06825dddfe50/public_url)
 - [CompTIA Security+](https://www.credly.com/badges/1d1293a5-ed72-4d3a-9f0a-e83c5fbb8179/public_url)
 - [CompTIA A+](https://www.credly.com/badges/692e2232-ce22-44f2-817e-a8d9bb2bfa7c/public_url)
 
-<b>Microsoft:</b> 
+### Microsoft
 - [Azure SC-900:  Microsoft Security, Compliance, and Identity Fundamentals](https://www.credly.com/badges/28df03fc-f439-44c9-902d-93d7f29e1315/public_url)
 - [Azure AZ-900:  Azure Fundamentals](https://www.credly.com/badges/28df03fc-f439-44c9-902d-93d7f29e1315/public_url)
 - [Microsoft Security Immersion Completion Badge](https://www.credly.com/badges/a3fe048f-1245-4cee-965d-fb5d26e191bf)
