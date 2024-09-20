@@ -4,15 +4,15 @@
 <br/>
 
 
-+ [👨🏽‍💻 Cybersecurity Projects]
++ [👨🏽‍💻 Cybersecurity Projects](#cybersecurity-projects)
 + [📺 Project Videos](#project-videos)
-+ [🗃️ Workplace Case studies]
-+ [Professional Experience]
-+ [🎓 Education]
-+ [📜 Certifications and Credentials]
-+ [Connect with me](#connect-with-me)
++ [🗃️ Workplace Case studies](#workplace-case-studies)
++ [Professional Experience](professional-experience)
++ [🎓 Education](#education)
++ [📜 Certifications and Credentials](#certifications-and-credentials)
++ [Connect with me](#connect-with-me)(#connect-with-me)
 
-## 👨🏽‍💻 Cybersecurity Projects
+<h2 id="cybersecurity-projects">👨🏽‍💻 Cybersecurity Projects</h2>
 
 - ### Threat Monitoring
   - [Cloud SOC:  SIEM Implentation in Azure](https://github.com/marvioncriddle/activeDirectoryLab)
@@ -38,7 +38,13 @@
 <br/>
 
 <h2 id="workplace-case-studies">🗃️ Workplace Case Studies</h2>
-- 
+
+<b> </b>
+- Defender for Endpoint Deployment
+- Purview DLP Deployment
+- Upgrading ZPA Servers to RHEL 9
+- Prisma Cloud Data Connector | Sentinel
+- Source IP Anchoring for New Vendor
 
 ## 🎓 Education
 - Master of Science, Information Technology Management:  Western Governors University
