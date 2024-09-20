@@ -45,6 +45,9 @@
 - Upgrading ZPA Servers to RHEL 9
 - Prisma Cloud Data Connector | Sentinel
 - Source IP Anchoring for New Vendor
+<br/>
+<br/>
+
 
 <h2 id="professional-experience">🖊️ Professional Experience</h2>
 
@@ -54,6 +57,8 @@
 - NOC/SOC Analyst | MAXX Potential
 - Service Desk Analyst II | Duke University
 - Apple Support Advisor | Apple
+<br/>
+<br/>
 
 
 <h2 id="education">🎓 Education</h2>
@@ -64,6 +69,7 @@
 - Associate of Applied Science, Cybersecurity:  Vance-Granville Community College
 <br/>
 <br/>
+
 
 <h2 id="certifications-and-credentials">📜 Certifications and Credentials</h2>
 
