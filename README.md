@@ -55,13 +55,13 @@
 <h2 id="professional-experience">🖊️ Professional Experience</h2>
 
 <b> </b>
-| <h2>Position</h2>                       | Organization     | Timeframe             |
-| --------------------------------------- | ---------------- | ----------------------|
-| <b>Information Security Analyst II</b>  | Duke Health      | May 2024 - Present    |
-| <b>Information security Analyst</b>     | Duke Health      | July 2023 - May 2024  |
-| <b>NOC/SOC Analyst</b>                  | MAXX Potential   | Nov 2022 - June 2023  |
-| <b>Service Desk Analyst II</b>          | Duke University  | June 2022 - July 2023 |
-| <b>Apple Support Advisor</b>            | Apple            | Feb 2022 - July 2022  |
+| <h3>Position</h3>                       | <h3>Organization</h3> | <h3>Timeframe</h3>    |
+| --------------------------------------- | --------------------- | ----------------------|
+| <b>Information Security Analyst II</b>  | Duke Health           | May 2024 - Present    |
+| <b>Information security Analyst</b>     | Duke Health           | July 2023 - May 2024  |
+| <b>NOC/SOC Analyst</b>                  | MAXX Potential        | Nov 2022 - June 2023  |
+| <b>Service Desk Analyst II</b>          | Duke University       | June 2022 - July 2023 |
+| <b>Apple Support Advisor</b>            | Apple                 | Feb 2022 - July 2022  |
 <br/>
 <br/>
 
