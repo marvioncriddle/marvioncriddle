@@ -4,15 +4,15 @@
 <br/>
 
 
-+ Cybersecurity Projects
++ [👨🏽‍💻 Cybersecurity Projects]
 + [📺 Project Videos](#project-videos)
-+ Workplace Case studies
-+ Professional Experience
-+ Education
-+ Certifications and Credentials
++ [🗃️ Workplace Case studies]
++ [Professional Experience]
++ [🎓 Education]
++ [📜 Certifications and Credentials]
 + [Connect with me](#connect-with-me)
 
-## 👨🏾‍💻 Cybersecurity Projects
+## 👨🏽‍💻 Cybersecurity Projects
 
 - ### Threat Monitoring
   - [Cloud SOC:  SIEM Implentation in Azure](https://github.com/marvioncriddle/activeDirectoryLab)
@@ -31,11 +31,14 @@
 
 
 <h2 id="project-videos">📺 Project Videos</h2>
-<b>o</b>
+
+<b> </b>
 - [Cloud SOC:  SIEM Implentation in Azure](https://www.youtube.com/watch?v=a83ASGn_V_s)
 <br/>
 <br/>
 
+<h2 id="workplace-case-studies">🗃️ Workplace Case Studies</h2>
+- 
 
 ## 🎓 Education
 - Master of Science, Information Technology Management:  Western Governors University
