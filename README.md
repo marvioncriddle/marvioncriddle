@@ -87,7 +87,7 @@
 - MTA 98-367: Security Fundamentals:  [Verify](https://www.credly.com/badges/4a1ec7fe-4112-4597-80c1-8cefc0ec1383/public_url) | [Learn](https://www.certiport.com/portal/common/htmllibrary/MTA/docs/MTA_Security_Fundamentals_Whitepaper_092914CE.pdf)
 - MTA 98-366: Networking Fundamentals:  [Verify](https://www.credly.com/badges/4ae36cbd-f9d3-40b6-ab68-4244ecc15558/public_url) | [Learn](https://www.certiport.com/Portal/Common/DocumentLibrary/MTA_OD_366_External.pdf)
 - MTA 98-364: Database Fundamentals:  [Verify](https://www.credly.com/badges/45d574b1-b36d-498a-add7-9c94a2353fb4/public_url) | [Learn](https://www.certiport.com/Portal/Common/DocumentLibrary/MTA_OD_364_external.pdf)
-- MTA 98-349: Windows Operating System Fundamentals:  [Verify](https://www.credly.com/badges/c6e1d202-48f0-40f3-be9c-10b48834604b/public_url) | (https://www.certiport.com/Portal/Common/DocumentLibrary/MTA_OD_349_External.pdf)
+- MTA 98-349: Windows Operating System Fundamentals:  [Verify](https://www.credly.com/badges/c6e1d202-48f0-40f3-be9c-10b48834604b/public_url) | [Learn](https://www.certiport.com/Portal/Common/DocumentLibrary/MTA_OD_349_External.pdf)
 - MTA 98-361: Software Development Fundamentals:  [Verify](https://www.credly.com/badges/45fb6a33-01e9-4f0a-9c03-47dfec382e1d/public_url) | [Learn](https://www.certiport.com/portal/common/documentlibrary/mta_od_361_external.pdf)
 
 ### Other
