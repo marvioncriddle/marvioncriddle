@@ -75,7 +75,7 @@
 
 <b> </b>
 ### CompTIA
-- [CompTIA Security Analytics Professional](https://www.credly.com/badges/31fca9ba-0401-484e-b715-2d994d3a1dd8/public_url) | [Info](https://www.comptia.org/certifications/which-certification/stackable-certifications)
+- CompTIA Security Analytics Professional [Verify](https://www.credly.com/badges/31fca9ba-0401-484e-b715-2d994d3a1dd8/public_url) | [Info](https://www.comptia.org/certifications/which-certification/stackable-certifications)
 - [CompTIA CySA+](https://www.credly.com/badges/a44b41dc-17d6-4efd-b154-06825dddfe50/public_url)
 - [CompTIA Security+](https://www.credly.com/badges/1d1293a5-ed72-4d3a-9f0a-e83c5fbb8179/public_url)
 - [CompTIA A+](https://www.credly.com/badges/692e2232-ce22-44f2-817e-a8d9bb2bfa7c/public_url)
