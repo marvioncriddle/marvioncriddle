@@ -13,7 +13,6 @@
 + [📜 Certifications and Credentials](#certifications-and-credentials)
 + [📱 Connect with me](#connect-with-me)
 <br/>
-<br/>
 
 
 <h2 id="cybersecurity-projects">👨🏽‍💻 Cybersecurity Projects</h2>
