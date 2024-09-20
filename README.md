@@ -1,4 +1,7 @@
 # Hi, I'm Marvion! | [Information Security Analyst](https://www.linkedin.com/in/marvioncriddle)
+<br/>
+<br/>
+
 
 ## 👨🏾‍💻 Cybersecurity Projects
 
@@ -28,7 +31,8 @@
 - Master of Science, Information Technology Management:  Western Governors University
 - Bachelor of Science, Information Technology:  Western Governors University
 - Associate of Applied Science, Cybersecurity:  Vance-Granville Community College
-
+<br/>
+<br/>
 
 
 ## 📜 Certifications and Credentials
@@ -64,7 +68,8 @@
 - Microsoft SC-300:  Identity and Access Administrator
 - Azure AZ-500:  Azure Security Engineer Associate
 - PMI CAPM:  Certified Associate in Project Management
-
+<br/>
+<br/>
 
 
 <h2> 🤳 Connect with me:</h2>
