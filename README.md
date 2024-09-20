@@ -59,11 +59,13 @@
 <h2 id="professional-experience">🖊️ Professional Experience</h2>
 
 <b> </b>
-- Information Security Analyst II | Duke Health
-- Information security Analyst | Duke Health
-- NOC/SOC Analyst | MAXX Potential
-- Service Desk Analyst II | Duke University
-- Apple Support Advisor | Apple
+| Position                         | Organication     | Timeframe             |
+| -------------------------------- | ---------------- | ----------------------|
+| Information Security Analyst II  | Duke Health      | May 2024 - Present    |
+| Information security Analyst     | Duke Health      | July 2023 - May 2024  |
+| NOC/SOC Analyst                  | MAXX Potential   | Nov 2022 - June 2023  |
+| Service Desk Analyst II          | Duke University  | June 2022 - July 2023 |
+| Apple Support Advisor            | Apple            | Feb 2022 - July 2022  |
 <br/>
 <br/>
 
