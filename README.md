@@ -3,7 +3,7 @@
 ## 👨🏾‍💻 Cybersecurity Projects
 
 - ### Threat Monitoring
-  - [Cloud SOC:  SIEM Implentation in Azure](https://github.com/marvioncriddle/activeDirectoryLab)
+  - <a href="https://github.com/marvioncriddle/activeDirectoryLab" target="_blank">Cloud SOC: SIEM Implementation in Azure</a>
 - ### Attacker Behavior Analysis
   - [Honeypot Deployment in Azure](https://github.com/marvioncriddle/activeDirectoryLab)
 - ### Vulnerability Discovery
