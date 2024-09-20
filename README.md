@@ -55,7 +55,7 @@
 <h2 id="professional-experience">🖊️ Professional Experience</h2>
 
 <b> </b>
-| Position                                | Organization     | Timeframe             |
+| <h2>Position</h2>                       | Organization     | Timeframe             |
 | --------------------------------------- | ---------------- | ----------------------|
 | <b>Information Security Analyst II</b>  | Duke Health      | May 2024 - Present    |
 | <b>Information security Analyst</b>     | Duke Health      | July 2023 - May 2024  |
