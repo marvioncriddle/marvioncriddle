@@ -101,8 +101,9 @@
 - [IC3:  Living Online](https://www.credly.com/badges/612fe89d-e721-4634-a21c-e563ac9a74ed/public_url)
 
 ### Upcoming Certs in the Pipeline
-- ITIL4 Foundation:  IT Service Management Certification
-- Microsoft SC-300:  Identity and Access Administrator
+- Oulettes & Associates:  Leading Change | [Info}(https://www.ouellette-online.com/leading-change.html)
+- ITIL4 Foundation:  IT Service Management Certification | [Info](https://www.axelos.com/certifications/itil-service-management/itil-4-foundation)
+- Microsoft SC-300:  Identity and Access Administrator | [Info](https://learn.microsoft.com/en-us/credentials/certifications/identity-and-access-administrator/?practice-assessment-type=certification)
 - Azure AZ-500:  Azure Security Engineer Associate
 - PMI CAPM:  Certified Associate in Project Management
 <br/>
