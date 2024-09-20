@@ -4,8 +4,6 @@
 
 
 ## Portfolio Contents
-<br/>
-<br/>
 
 
 + [👨🏽‍💻 Cybersecurity Projects](#cybersecurity-projects)
