@@ -3,17 +3,17 @@
 ## 👨🏾‍💻 Cybersecurity Projects
 
 - #### Threat Monitoring
-  - [Cloud SOC:  SIEM Implentation in Azure](https://github.com/marvioncriddle/activeDirectoryLab)
+  - ##### [Cloud SOC:  SIEM Implentation in Azure](https://github.com/marvioncriddle/activeDirectoryLab)
 - #### Attacker Behavior Analysis
-  - [Honeypot Deployment in Azure](https://github.com/marvioncriddle/activeDirectoryLab)
+  - ##### [Honeypot Deployment in Azure](https://github.com/marvioncriddle/activeDirectoryLab)
 - #### Vulnerability Discovery
-  - [Azure Port Scanner](https://github.com/marvioncriddle/activeDirectoryLab)
+  - ##### [Azure Port Scanner](https://github.com/marvioncriddle/activeDirectoryLab)
 - #### Password Security
-  - [Python Password Strength Checker](https://github.com/marvioncriddle/activeDirectoryLab)
+  - ##### [Python Password Strength Checker](https://github.com/marvioncriddle/activeDirectoryLab)
 - #### Change Detection
-  - [Creating a File Integrity Monitoring (FIM) System](https://github.com/marvioncriddle/activeDirectoryLab)
+  - ##### [Creating a File Integrity Monitoring (FIM) System](https://github.com/marvioncriddle/activeDirectoryLab)
 - #### Threat Response
-  - [EDR Deployment in Windows 11](https://github.com/marvioncriddle/activeDirectoryLab)
+  - ##### [EDR Deployment in Windows 11](https://github.com/marvioncriddle/activeDirectoryLab)
 
 
 ## 📺 Project Videos
