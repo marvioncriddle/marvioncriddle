@@ -10,7 +10,7 @@
 + [🖊️ Professional Experience](professional-experience)
 + [🎓 Education](#education)
 + [📜 Certifications and Credentials](#certifications-and-credentials)
-+ [Connect with me](#connect-with-me)(#connect-with-me)
++ [📱 Connect with me](#connect-with-me)
 
 <h2 id="cybersecurity-projects">👨🏽‍💻 Cybersecurity Projects</h2>
 
@@ -65,9 +65,9 @@
 <br/>
 <br/>
 
+<h2 id="certifications-and-credentials">📜 Certifications and Credentials</h2>
 
-## 📜 Certifications and Credentials
-
+<b> </b>
 ### CompTIA
 - [CompTIA Security Analytics Professional](https://www.credly.com/badges/31fca9ba-0401-484e-b715-2d994d3a1dd8/public_url)
 - [CompTIA CySA+](https://www.credly.com/badges/a44b41dc-17d6-4efd-b154-06825dddfe50/public_url)
@@ -103,8 +103,9 @@
 <br/>
 
 
-<h2> 🤳 Connect with me:</h2>
+<h2 id="connect-with-me">📱 Connect with Me</h2>
 
+<b> </b>
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
