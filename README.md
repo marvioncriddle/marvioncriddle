@@ -2,8 +2,21 @@
 
 ## 👨🏾‍💻 Cybersecurity Projects
 
-- ### Microsoft Azure
-  - [activeDirectoryLab - Batch Creating Users](https://github.com/marvioncriddle/activeDirectoryLab)
+- ### Threat Monitoring
+  - [Cloud SOC:  SIEM Implentation in Azure](https://github.com/marvioncriddle/activeDirectoryLab)
+- ### Attacker Behavior Analysis
+  - [Honeypot Deployment in Azure](https://github.com/marvioncriddle/activeDirectoryLab)
+- ### Vulnerability Discovery
+  - [Azure Port Scanner](https://github.com/marvioncriddle/activeDirectoryLab)
+- ### Password Security
+  - [Python Password Strength Checker](https://github.com/marvioncriddle/activeDirectoryLab)
+- ### Change Detection
+  - [Creating a File Integrity Monitoring (FIM) System](https://github.com/marvioncriddle/activeDirectoryLab)
+- ### Threat Response
+  - [EDR Deployment in Windows 11](https://github.com/marvioncriddle/activeDirectoryLab)
+
+
+[activeDirectoryLab - Batch Creating Users](https://github.com/marvioncriddle/activeDirectoryLab)
 - <b>Amazon Web Services</b>
   - [activeDirectoryLab - Batch Creating Users](https://github.com/marvioncriddle/activeDirectoryLab)
 - <b>Active Directory Home Labs</b>
@@ -44,7 +57,7 @@
 - [MTA 98-349: Windows Operating System Fundamentals](https://www.credly.com/badges/c6e1d202-48f0-40f3-be9c-10b48834604b/public_url)
 - [MTA 98-361: Software Development Fundamentals](https://www.credly.com/badges/45fb6a33-01e9-4f0a-9c03-47dfec382e1d/public_url)
 
-<b>Other:</b>
+### Other
 - [Zscaler:  Zscaler Internet Access (ZIA) Certified Administrator](https://verify.skilljar.com/c/2fknrksntukq)
 - [LPI:  Linux Essentials](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000556881/hp67y36ekw)
 - [AWS:  Certified Cloud Practitioner](https://www.credly.com/badges/d22d02b4-ffde-4358-83d4-544778fb1cdc/public_url)
@@ -54,14 +67,14 @@
 - [Apple:  Apple App Development with Swift Associate](https://www.credly.com/badges/9e2f5219-6ac5-4ea3-8a7b-01da96214e7c/public_url)
 - [IC3:  Living Online](https://www.credly.com/badges/612fe89d-e721-4634-a21c-e563ac9a74ed/public_url)
 
-<b>Upcoming - In Progress</b>
+### In Progress
 - ITIL4 Foundation:  IT Service Management Certification
 - Microsoft SC-300:  Identity and Access Administrator
 - Azure AZ-500:  Azure Security Engineer Associate
 - PMI CAPM:  Certified Associate in Project Management
 
 
-<h2>📺 Popular YouTube Videos</h2>
+## Project Videos 📺
 
 - [Video 1](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
