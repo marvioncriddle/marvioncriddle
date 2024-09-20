@@ -70,7 +70,8 @@
 <h2 id="education">🎓 Education</h2>
 
 <b> </b>
-| Degree                              | Major                             | Institution                       |
+<br/>
+| <h3>Degree</h3>                     | <h3>Major</h3>                    | <h3>Institution</h3>              |
 | ----------------------------------- | --------------------------------- | --------------------------------- |
 | <b>Master of Science</b>            | Information Technology Management | Western Governors University      |
 | <b>Bachelor of Science</b>          | Information Technology            | Western Governors University      |
