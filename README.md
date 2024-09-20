@@ -37,11 +37,11 @@
 <h2 id="workplace-case-studies">🗃️ Workplace Case Studies</h2>
 
 <b> </b>
-- [Defender for Endpoint Deployment](https://www.credly.com/badges/31fca9ba-0401-484e-b715-2d994d3a1dd8/public_url)
-- [Purview DLP Deployment](https://www.credly.com/badges/a44b41dc-17d6-4efd-b154-06825dddfe50/public_url)
-- [Upgrading ZPA Servers to RHEL 9](https://www.credly.com/badges/1d1293a5-ed72-4d3a-9f0a-e83c5fbb8179/public_url)
-- [Prisma Cloud Data Connector | Sentinel](https://www.credly.com/badges/692e2232-ce22-44f2-817e-a8d9bb2bfa7c/public_url)
-- [Source IP Anchoring for New Vendor](https://www.credly.com/badges/692e2232-ce22-44f2-817e-a8d9bb2bfa7c/public_url)
+- ### [Defender for Endpoint Deployment](https://www.credly.com/badges/31fca9ba-0401-484e-b715-2d994d3a1dd8/public_url)
+- ### [Purview DLP Deployment](https://www.credly.com/badges/a44b41dc-17d6-4efd-b154-06825dddfe50/public_url)
+- ### [Upgrading ZPA Servers to RHEL 9](https://www.credly.com/badges/1d1293a5-ed72-4d3a-9f0a-e83c5fbb8179/public_url)
+- ### [Prisma Cloud Data Connector | Sentinel](https://www.credly.com/badges/692e2232-ce22-44f2-817e-a8d9bb2bfa7c/public_url)
+- ### [Source IP Anchoring for New Vendor](https://www.credly.com/badges/692e2232-ce22-44f2-817e-a8d9bb2bfa7c/public_url)
 <br/>
 <br/>
 
