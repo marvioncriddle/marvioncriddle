@@ -7,7 +7,7 @@
 + [👨🏽‍💻 Cybersecurity Projects](#cybersecurity-projects)
 + [📺 Project Videos](#project-videos)
 + [🗃️ Workplace Case studies](#workplace-case-studies)
-+ [Professional Experience](professional-experience)
++ [🖊️ Professional Experience](professional-experience)
 + [🎓 Education](#education)
 + [📜 Certifications and Credentials](#certifications-and-credentials)
 + [Connect with me](#connect-with-me)(#connect-with-me)
@@ -46,7 +46,19 @@
 - Prisma Cloud Data Connector | Sentinel
 - Source IP Anchoring for New Vendor
 
-## 🎓 Education
+<h2 id="professional-experience">🖊️ Professional Experience</h2>
+
+<b> </b>
+- Information Security Analyst II | Duke Health
+- Information security Analyst | Duke Health
+- NOC/SOC Analyst | MAXX Potential
+- Service Desk Analyst II | Duke University
+- Apple Support Advisor | Apple
+
+
+<h2 id="education">🎓 Education</h2>
+
+<b> </b>
 - Master of Science, Information Technology Management:  Western Governors University
 - Bachelor of Science, Information Technology:  Western Governors University
 - Associate of Applied Science, Cybersecurity:  Vance-Granville Community College
