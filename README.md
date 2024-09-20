@@ -5,13 +5,13 @@
 ## Portfolio Contents
 
 
-+ [👨🏽‍💻 Cybersecurity Projects](#cybersecurity-projects)
-+ [📺 Project Videos](#project-videos)
-+ [🗃️ Workplace Case studies](#workplace-case-studies)
-+ [🖊️ Professional Experience](#professional-experience)
-+ [🎓 Education](#education)
-+ [📜 Certifications and Credentials](#certifications-and-credentials)
-+ [📱 Connect with me](#connect-with-me)
+- [👨🏽‍💻 Cybersecurity Projects](#cybersecurity-projects)
+- [📺 Project Videos](#project-videos)
+- [🗃️ Workplace Case studies](#workplace-case-studies)
+- [🖊️ Professional Experience](#professional-experience)
+- [🎓 Education](#education)
+- [📜 Certifications and Credentials](#certifications-and-credentials)
+* [📱 Connect with me](#connect-with-me)
 <br/>
 
 
