@@ -123,10 +123,10 @@
 <b> </b>
 [<img align="left" alt="MarvionCriddle | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="MarvionCriddle | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="MarvionCriddle | Credly" width="22px" src="https://cdn.icon-icons.com/icons2/3911/PNG/512/credly_logo_icon_247258.png" />][Credly]
 [<img align="left" alt="MarvionCriddle | Medium" width="22px" src="https://cdn-icons-png.freepik.com/512/5968/5968906.png" />][Medium]
+[<img align="left" alt="MarvionCriddle | Credly" width="22px" src="https://cdn.icon-icons.com/icons2/3911/PNG/512/credly_logo_icon_247258.png" />][Credly]
 
 [linkedin]: https://www.linkedin.com/in/marvioncriddle/
 [twitter]: https://twitter.com/ByteCyzeNetwrks
-[credly]:  https://www.credly.com/users/marvion-criddle
 [medium]:  https://medium.com/guide-title-how-to-be-a-watchman-for-cybersec
+[credly]:  https://www.credly.com/users/marvion-criddle
