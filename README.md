@@ -69,9 +69,11 @@
 <h2 id="education">🎓 Education</h2>
 
 <b> </b>
-- Master of Science, Information Technology Management:  Western Governors University
-- Bachelor of Science, Information Technology:  Western Governors University
-- Associate of Applied Science, Cybersecurity:  Vance-Granville Community College
+| Degree                              | Major                             | Institution                       |
+| ----------------------------------- | --------------------------------- | --------------------------------- |
+| <b>Master of Science</b>            | Information Technology Management | Western Governors University      |
+| <b>Bachelor of Science</b>          | Information Technology            | Western Governors University      |
+| <b>Associate of Applied Science</b> | Cybersecurity                     | Vance-Granville Community College |
 <br/>
 <br/>
 
