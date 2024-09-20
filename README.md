@@ -75,10 +75,10 @@
 
 <b> </b>
 ### CompTIA
-- CompTIA Security Analytics Professional [Verify](https://www.credly.com/badges/31fca9ba-0401-484e-b715-2d994d3a1dd8/public_url) | [Info](https://www.comptia.org/certifications/which-certification/stackable-certifications)
-- CompTIA CySA+ [Verify](https://www.credly.com/badges/a44b41dc-17d6-4efd-b154-06825dddfe50/public_url) | [Learn](https://www.comptia.org/certifications/cybersecurity-analyst)
-- CompTIA Security+ [Verify](https://www.credly.com/badges/1d1293a5-ed72-4d3a-9f0a-e83c5fbb8179/public_url) | [Learn](https://www.comptia.org/certifications/security)
-- CompTIA A+ [Verify](https://www.credly.com/badges/692e2232-ce22-44f2-817e-a8d9bb2bfa7c/public_url) | [Learn](https://www.comptia.org/certifications/a)
+- CompTIA Security Analytics Professional:  [Verify](https://www.credly.com/badges/31fca9ba-0401-484e-b715-2d994d3a1dd8/public_url) | [Info](https://www.comptia.org/certifications/which-certification/stackable-certifications)
+- CompTIA CySA+:  [Verify](https://www.credly.com/badges/a44b41dc-17d6-4efd-b154-06825dddfe50/public_url) | [Learn](https://www.comptia.org/certifications/cybersecurity-analyst)
+- CompTIA Security+:  [Verify](https://www.credly.com/badges/1d1293a5-ed72-4d3a-9f0a-e83c5fbb8179/public_url) | [Learn](https://www.comptia.org/certifications/security)
+- CompTIA A+:  [Verify](https://www.credly.com/badges/692e2232-ce22-44f2-817e-a8d9bb2bfa7c/public_url) | [Learn](https://www.comptia.org/certifications/a)
 
 ### Microsoft
 - [Azure SC-900:  Microsoft Security, Compliance, and Identity Fundamentals](https://www.credly.com/badges/28df03fc-f439-44c9-902d-93d7f29e1315/public_url)
