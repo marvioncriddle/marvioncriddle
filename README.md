@@ -1,9 +1,9 @@
-# Hi, I'm Marvion! | [Information Security Analyst](https://www.linkedin.com/in/marvioncriddle//)
+# Hi, I'm Marvion! | [Information Security Analyst](https://www.linkedin.com/in/marvioncriddle)
 
 ## 👨🏾‍💻 Cybersecurity Projects
 
 - ### Threat Monitoring
-  - <a href="https://github.com/marvioncriddle/activeDirectoryLab" target="_blank">Cloud SOC: SIEM Implementation in Azure</a>
+  - [Cloud SOC:  SIEM Implentation in Azure](https://github.com/marvioncriddle/activeDirectoryLab)
 - ### Attacker Behavior Analysis
   - [Honeypot Deployment in Azure](https://github.com/marvioncriddle/activeDirectoryLab)
 - ### Vulnerability Discovery
@@ -14,23 +14,6 @@
   - [Creating a File Integrity Monitoring (FIM) System](https://github.com/marvioncriddle/activeDirectoryLab)
 - ### Threat Response
   - [EDR Deployment in Windows 11](https://github.com/marvioncriddle/activeDirectoryLab)
-
-
-[activeDirectoryLab - Batch Creating Users](https://github.com/marvioncriddle/activeDirectoryLab)
-- <b>Amazon Web Services</b>
-  - [activeDirectoryLab - Batch Creating Users](https://github.com/marvioncriddle/activeDirectoryLab)
-- <b>Active Directory Home Labs</b>
-  - [activeDirectoryLab - Batch Creating Users](https://github.com/marvioncriddle/activeDirectoryLab)
-- <b>Migrating Starlight University's Data Center to the Cloud - BSIT Capstone</b>
-  - [Lab 1](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-- <b>Linux</b>
-  - [linuxLabWork - Adjusting Permissions](https://github.com/marvioncriddle/linuxLabWork)<b><i></b></i>
-- <b>PowerShell</b>
-  - [Lab 1](https://github.com/joshmadakor1/Sentinel-Lab)
-- <b>Python</b>
-  - [Lab 1](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-- <b>GRC</b>
-  - [Lab 1](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 
 ## 🎓 Education
