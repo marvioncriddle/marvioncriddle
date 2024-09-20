@@ -2,28 +2,31 @@
 
 ## 👨🏾‍💻 Cybersecurity Projects
 
-- #### Threat Monitoring
-  - ##### [Cloud SOC:  SIEM Implentation in Azure](https://github.com/marvioncriddle/activeDirectoryLab)
-- #### Attacker Behavior Analysis
-  - ##### [Honeypot Deployment in Azure](https://github.com/marvioncriddle/activeDirectoryLab)
-- #### Vulnerability Discovery
-  - ##### [Azure Port Scanner](https://github.com/marvioncriddle/activeDirectoryLab)
-- #### Password Security
-  - ##### [Python Password Strength Checker](https://github.com/marvioncriddle/activeDirectoryLab)
-- #### Change Detection
-  - ##### [Creating a File Integrity Monitoring (FIM) System](https://github.com/marvioncriddle/activeDirectoryLab)
-- #### Threat Response
-  - ##### [EDR Deployment in Windows 11](https://github.com/marvioncriddle/activeDirectoryLab)
+- ### Threat Monitoring
+  - [Cloud SOC:  SIEM Implentation in Azure](https://github.com/marvioncriddle/activeDirectoryLab)
+- ### Attacker Behavior Analysis
+  - [Honeypot Deployment in Azure](https://github.com/marvioncriddle/activeDirectoryLab)
+- ### Vulnerability Discovery
+  - [Azure Port Scanner](https://github.com/marvioncriddle/activeDirectoryLab)
+- ### Password Security
+  - [Python Password Strength Checker](https://github.com/marvioncriddle/activeDirectoryLab)
+- ### Change Detection
+  - [Creating a File Integrity Monitoring (FIM) System](https://github.com/marvioncriddle/activeDirectoryLab)
+- ### Threat Response
+  - [EDR Deployment in Windows 11](https://github.com/marvioncriddle/activeDirectoryLab)
+
 
 
 ## 📺 Project Videos
 - [Cloud SOC:  SIEM Implentation in Azure](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
 
+
 ## 🎓 Education
 - Master of Science, Information Technology Management:  Western Governors University
 - Bachelor of Science, Information Technology:  Western Governors University
 - Associate of Applied Science, Cybersecurity:  Vance-Granville Community College
+
 
 
 ## 📜 Certifications and Credentials
@@ -59,6 +62,7 @@
 - Microsoft SC-300:  Identity and Access Administrator
 - Azure AZ-500:  Azure Security Engineer Associate
 - PMI CAPM:  Certified Associate in Project Management
+
 
 
 <h2> 🤳 Connect with me:</h2>
