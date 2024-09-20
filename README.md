@@ -17,6 +17,7 @@
 
 <h2 id="cybersecurity-projects">👨🏽‍💻 Cybersecurity Projects</h2>
 
+- ------------------------------ | ---------------------------------------------------------------------------------------------------------- |
 - ### Threat Monitoring          |  [Cloud SOC:  SIEM Implentation in Azure](https://github.com/marvioncriddle/activeDirectoryLab)
 - ### Attacker Behavior Analysis |  [Honeypot Deployment in Azure](https://github.com/marvioncriddle/activeDirectoryLab)
 - ### Vulnerability Discovery    |  [Azure Port Scanner](https://github.com/marvioncriddle/activeDirectoryLab)
