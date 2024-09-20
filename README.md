@@ -91,14 +91,14 @@
 - MTA 98-361: Software Development Fundamentals:  [Verify](https://www.credly.com/badges/45fb6a33-01e9-4f0a-9c03-47dfec382e1d/public_url) | [Learn](https://www.certiport.com/portal/common/documentlibrary/mta_od_361_external.pdf)
 
 ### Other
-- Zscaler:  Zscaler Internet Access (ZIA) Certified Administrator [Verify](https://verify.skilljar.com/c/2fknrksntukq) | [Learn](https://customer.zscaler.com/zia-certified-administrator-exam-2022)
-- [LPI:  Linux Essentials](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000556881/hp67y36ekw)
-- [AWS:  Certified Cloud Practitioner](https://www.credly.com/badges/d22d02b4-ffde-4358-83d4-544778fb1cdc/public_url)
-- [Cisco:  Cybersecurity Essentials](https://www.credly.com/badges/6ec6f000-48e9-4f84-83a1-a9e2000c63f9/public_url)
-- [Google:  Google IT Support Certificate](https://www.credly.com/badges/176077e3-f584-468e-9e70-be2e5a9c2c60/public_url)
-- [Google/CompTIA dual credential](https://www.credly.com/badges/d0d16c14-50c6-45ad-9d8f-53f5c8c57008/public_url)
-- [Apple:  Apple App Development with Swift Associate](https://www.credly.com/badges/9e2f5219-6ac5-4ea3-8a7b-01da96214e7c/public_url)
-- [IC3:  Living Online](https://www.credly.com/badges/612fe89d-e721-4634-a21c-e563ac9a74ed/public_url)
+- Zscaler:  Zscaler Internet Access (ZIA) Certified Administrator:  [Verify](https://verify.skilljar.com/c/2fknrksntukq) | [Learn](https://customer.zscaler.com/zia-certified-administrator-exam-2022)
+- LPI:  Linux Essentials:  [Verify](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000556881/hp67y36ekw) | [Learn](https://www.lpi.org/our-certifications/exam-010-objectives/)
+- AWS:  Certified Cloud Practitioner:  [Verify](https://www.credly.com/badges/d22d02b4-ffde-4358-83d4-544778fb1cdc/public_url) | [Learn](https://aws.amazon.com/certification/certified-cloud-practitioner/)
+- Cisco:  Cybersecurity Essentials:  [Verify](https://www.credly.com/badges/6ec6f000-48e9-4f84-83a1-a9e2000c63f9/public_url) | [Learn}(https://www.netacad.com/courses/cybersecurity-essentials?courseLang=en-US)
+- Google:  Google IT Support Certificate:  [Verify](https://www.credly.com/badges/176077e3-f584-468e-9e70-be2e5a9c2c60/public_url) | [Learn](https://www.coursera.org/professional-certificates/google-it-support)
+- Google/CompTIA dual credential:  [Verify](https://www.credly.com/badges/d0d16c14-50c6-45ad-9d8f-53f5c8c57008/public_url) | [Learn](https://www.comptia.org/newsroom/comptia-and-google-team-up-to-deepen-talent-pool-of-it-support-professionals)
+- Apple:  Apple App Development with Swift Associate:  [Verify](https://www.credly.com/badges/9e2f5219-6ac5-4ea3-8a7b-01da96214e7c/public_url) | [Learn](https://certiport.pearsonvue.com/Certifications/Apple/App-Dev-With-Swift/Overview.aspx)
+- IC3:  Living Online:  [Verify](https://www.credly.com/badges/612fe89d-e721-4634-a21c-e563ac9a74ed/public_url) | [Learn](https://www.certiport.com/portal/common/documentlibrary/IC3_GS4_Living_Online_012015CE.pdf)
 
 ### Upcoming Certs in the Pipeline
 - Oulettes & Associates:  Leading Change | [Learn](https://www.ouellette-online.com/leading-change.html)
