@@ -1,7 +1,16 @@
 # Hi, I'm Marvion! | [Information Security Analyst](https://www.linkedin.com/in/marvioncriddle)
+## Portfolio Contents
 <br/>
 <br/>
 
+
++ Cybersecurity Projects
++ Project Videos
++ Workplace Case studies
++ Professional Experience
++ Education
++ Certifications and Credentials
++ [Connect with me](#connect-with-me)
 
 ## 👨🏾‍💻 Cybersecurity Projects
 
