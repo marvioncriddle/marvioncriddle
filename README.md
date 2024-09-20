@@ -16,6 +16,10 @@
   - [EDR Deployment in Windows 11](https://github.com/marvioncriddle/activeDirectoryLab)
 
 
+## 📺 Project Videos
+- [Cloud SOC:  SIEM Implentation in Azure](https://www.youtube.com/watch?v=a83ASGn_V_s)
+
+
 ## 🎓 Education
 - Master of Science, Information Technology Management:  Western Governors University
 - Bachelor of Science, Information Technology:  Western Governors University
@@ -55,11 +59,6 @@
 - Microsoft SC-300:  Identity and Access Administrator
 - Azure AZ-500:  Azure Security Engineer Associate
 - PMI CAPM:  Certified Associate in Project Management
-
-
-## Project Videos 📺
-
-- [Video 1](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
 
 <h2> 🤳 Connect with me:</h2>
