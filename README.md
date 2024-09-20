@@ -103,7 +103,7 @@
 - [Apple:  Apple App Development with Swift Associate](https://www.credly.com/badges/9e2f5219-6ac5-4ea3-8a7b-01da96214e7c/public_url)
 - [IC3:  Living Online](https://www.credly.com/badges/612fe89d-e721-4634-a21c-e563ac9a74ed/public_url)
 
-### In Progress
+### Upcoming Certs in the Pipeline
 - ITIL4 Foundation:  IT Service Management Certification
 - Microsoft SC-300:  Identity and Access Administrator
 - Azure AZ-500:  Azure Security Engineer Associate
