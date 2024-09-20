@@ -5,7 +5,7 @@
 
 
 + Cybersecurity Projects
-+ [Project Videos](#📺-project-videos)
++ [Project Videos](#project-videos)
 + Workplace Case studies
 + Professional Experience
 + Education
@@ -30,7 +30,7 @@
 <br/>
 
 
-## 📺 Project Videos
+## Project Videos
 - [Cloud SOC:  SIEM Implentation in Azure](https://www.youtube.com/watch?v=a83ASGn_V_s)
 <br/>
 <br/>
