@@ -5,7 +5,7 @@
 
 
 + Cybersecurity Projects
-+ Project Videos
++ [Project Videos](#project-videos)
 + Workplace Case studies
 + Professional Experience
 + Education
@@ -88,19 +88,3 @@
 
 [twitter]: https://twitter.com/ByteCyzeNetwrks
 [linkedin]: https://www.linkedin.com/in/marvioncriddle/
-
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
