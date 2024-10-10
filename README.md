@@ -81,6 +81,7 @@
 - CompTIA A+:  [Verify](https://www.credly.com/badges/692e2232-ce22-44f2-817e-a8d9bb2bfa7c/public_url) | [Learn](https://www.comptia.org/certifications/a)
 
 ### Microsoft
+- [NEWEST] Microsoft SC-300:  Identity and Access Administrator [Verify](https://learn.microsoft.com/en-us/users/marvioncriddle-2670/credentials/7ac3dc9471174290)| [Learn](https://learn.microsoft.com/en-us/credentials/certifications/identity-and-access-administrator/?practice-assessment-type=certification)
 - Azure SC-900:  Microsoft Security, Compliance, and Identity Fundamentals:  [Verify](https://www.credly.com/badges/28df03fc-f439-44c9-902d-93d7f29e1315/public_url) | [Learn](https://learn.microsoft.com/en-us/credentials/certifications/security-compliance-and-identity-fundamentals/?practice-assessment-type=certification)
 - Azure AZ-900:  Azure Fundamentals:  [Verify](https://www.credly.com/badges/28df03fc-f439-44c9-902d-93d7f29e1315/public_url) | [Learn](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification)
 - Microsoft Security Immersion Completion Badge:  [Verify](https://www.credly.com/badges/a3fe048f-1245-4cee-965d-fb5d26e191bf) | [Learn](https://partner.microsoft.com/en-us/solutions/miw/security)
@@ -103,7 +104,6 @@
 ### Upcoming Certs in the Pipeline
 - Oulettes & Associates:  Leading Change | [Learn](https://www.ouellette-online.com/leading-change.html)
 - ITIL4 Foundation:  IT Service Management Certification | [Learn](https://www.axelos.com/certifications/itil-service-management/itil-4-foundation)
-- Microsoft SC-300:  Identity and Access Administrator | [Learn](https://learn.microsoft.com/en-us/credentials/certifications/identity-and-access-administrator/?practice-assessment-type=certification)
 - Azure AZ-500:  Azure Security Engineer Associate | [Learn](https://learn.microsoft.com/en-us/credentials/certifications/azure-security-engineer/?practice-assessment-type=certification)
 - PMI CAPM:  Certified Associate in Project Management | [Learn](https://www.pmi.org/certifications/certified-associate-capm)
 <br/>
