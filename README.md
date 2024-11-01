@@ -81,7 +81,7 @@
 - CompTIA A+:  [Verify](https://www.credly.com/badges/692e2232-ce22-44f2-817e-a8d9bb2bfa7c/public_url) | [Learn](https://www.comptia.org/certifications/a)
 
 ### Microsoft
-- [NEWEST] Microsoft SC-300:  Identity and Access Administrator:  [Verify](https://learn.microsoft.com/en-us/users/marvioncriddle-2670/credentials/7ac3dc9471174290) | [Learn](https://learn.microsoft.com/en-us/credentials/certifications/identity-and-access-administrator/?practice-assessment-type=certification)
+- Microsoft SC-300:  Identity and Access Administrator:  [Verify](https://learn.microsoft.com/en-us/users/marvioncriddle-2670/credentials/7ac3dc9471174290) | [Learn](https://learn.microsoft.com/en-us/credentials/certifications/identity-and-access-administrator/?practice-assessment-type=certification)
 - Azure SC-900:  Microsoft Security, Compliance, and Identity Fundamentals:  [Verify](https://learn.microsoft.com/api/credentials/share/en-us/MarvionCriddle-2670/E765C8CDDDB90D2C?sharingId=B531CE0351FAE189) | [Learn](https://learn.microsoft.com/en-us/credentials/certifications/security-compliance-and-identity-fundamentals/?practice-assessment-type=certification)
 - Azure AZ-900:  Azure Fundamentals:  [Verify](https://learn.microsoft.com/api/credentials/share/en-us/MarvionCriddle-2670/512F32BC8AD7A03F?sharingId=B531CE0351FAE189) | [Learn](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification)
 - Microsoft Security Immersion Completion Badge:  [Verify](https://www.credly.com/badges/a3fe048f-1245-4cee-965d-fb5d26e191bf) | [Learn](https://partner.microsoft.com/en-us/solutions/miw/security)
@@ -92,7 +92,7 @@
 - MTA 98-361: Software Development Fundamentals:  [Verify](https://www.credly.com/badges/45fb6a33-01e9-4f0a-9c03-47dfec382e1d/public_url) | [Learn](https://www.certiport.com/portal/common/documentlibrary/mta_od_361_external.pdf)
 
 ### Other
-- ITIL4 Foundation:  IT Service Management Certification (GR671706297MC):  [Verify](https://www.peoplecert.org/for-corporations/certificate-verification-service) | [Learn](https://www.axelos.com/certifications/itil-service-management/itil-4-foundation)
+- [NEWEST] ITIL4 Foundation:  IT Service Management Certification (GR671706297MC):  [Verify](https://www.peoplecert.org/for-corporations/certificate-verification-service) | [Learn](https://www.axelos.com/certifications/itil-service-management/itil-4-foundation)
 - Zscaler:  Zscaler Internet Access (ZIA) Certified Administrator:  [Verify](https://verify.skilljar.com/c/2fknrksntukq) | [Learn](https://customer.zscaler.com/zia-certified-administrator-exam-2022)
 - LPI:  Linux Essentials:  [Verify](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000556881/hp67y36ekw) | [Learn](https://www.lpi.org/our-certifications/exam-010-objectives/)
 - AWS:  Certified Cloud Practitioner:  [Verify](https://www.credly.com/badges/d22d02b4-ffde-4358-83d4-544778fb1cdc/public_url) | [Learn](https://aws.amazon.com/certification/certified-cloud-practitioner/)
