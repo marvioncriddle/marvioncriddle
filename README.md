@@ -17,7 +17,7 @@
 
 <h2 id="cybersecurity-projects">👨🏽‍💻 Cybersecurity Projects</h2>
 
-- ### Threat Monitoring          |  [Cloud SOC & Honeynet Implentation in Azure](https://github.com/marvioncriddle/activeDirectoryLab)
+- ### Threat Monitoring          |  [Cloud SOC & Honeynet Implentation in Azure](https://github.com/marvioncriddle/Cloud-SOC-Honeynet-Implementation-in-Azure)
 - ### Attacker Behavior Analysis |  [Honeypot Deployment in Azure](https://github.com/marvioncriddle/activeDirectoryLab)
 - ### Vulnerability Discovery    |  [Azure Port Scanner](https://github.com/marvioncriddle/activeDirectoryLab)
 - ### Password Security          |  [Python Password Strength Checker](https://github.com/marvioncriddle/activeDirectoryLab)
