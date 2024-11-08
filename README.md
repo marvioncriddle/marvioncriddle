@@ -1,4 +1,4 @@
-# Hi, I'm Marvion! | [Information Security Analyst](https://www.linkedin.com/in/marvioncriddle)
+# Hi, I'm Marvion Criddle, MS! | [Information Security Analyst](https://www.linkedin.com/in/marvioncriddle)
 <br/>
 
 
