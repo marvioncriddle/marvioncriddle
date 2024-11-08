@@ -7,7 +7,7 @@
 
 ### [👨🏽‍💻 Cybersecurity Projects](#cybersecurity-projects)
 ### [📺 Project Videos](#project-videos)
-### [🗃️ Workplace Case studies](#workplace-case-studies)
+### [🗃️ Case studies](#case-studies)
 ### [🖊️ Professional Experience](#professional-experience)
 ### [🎓 Education](#education)
 ### [📜 Certifications and Credentials](#certifications-and-credentials)
@@ -30,7 +30,7 @@
 <br/>
 <br/>
 
-<h2 id="workplace-case-studies">🗃️ Workplace Case Studies</h2>
+<h2 id="case-studies">🗃️ Case Studies</h2>
 
 <b> </b>
 - ### [Defender for Endpoint Deployment](https://github.com/marvioncriddle/DefenderDeployment/tree/main)
