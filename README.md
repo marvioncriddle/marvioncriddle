@@ -110,10 +110,10 @@
 <h2 id="connect-with-me">📱 Connect with Me</h2>
 
 <b> </b>
-[<img align="left" alt="MarvionCriddle | LinkedIn" width="22px" src="https://i.imgur.com/FLZGzpr.jpg" />][linkedin]
-[<img align="left" alt="MarvionCriddle | Twitter" width="22px" src="https://i.imgur.com/INOt0qv.jpg" />][twitter]
-[<img align="left" alt="MarvionCriddle | Medium" width="22px" src="https://i.imgur.com/K7JHjHU.jpg" />][Medium]
-[<img align="left" alt="MarvionCriddle | Credly" width="22px" src="https://i.imgur.com/Bhfw8Lq.jpg" />][Credly]
+[<img align="left" alt="MarvionCriddle | LinkedIn" width="30px" src="https://i.imgur.com/FLZGzpr.jpg" />][linkedin]
+[<img align="left" alt="MarvionCriddle | Twitter" width="30px" src="https://i.imgur.com/INOt0qv.jpg" />][twitter]
+[<img align="left" alt="MarvionCriddle | Medium" width="30px" src="https://i.imgur.com/K7JHjHU.jpg" />][Medium]
+[<img align="left" alt="MarvionCriddle | Credly" width="30px" src="https://i.imgur.com/Bhfw8Lq.jpg" />][Credly]
 
 [linkedin]: https://www.linkedin.com/in/marvioncriddle/
 [twitter]: https://twitter.com/ByteCyzeNetwrks
