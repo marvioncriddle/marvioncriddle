@@ -26,7 +26,7 @@
 <h2 id="project-videos">📺 Project Videos</h2>
 
 <b> </b>
-- ### [Cloud SOC:  SIEM Implentation in Azure](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- ### Cloud SOC & Honeynet Implentation in Azure (Uploading Soon)
 <br/>
 <br/>
 
