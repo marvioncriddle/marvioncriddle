@@ -58,11 +58,12 @@
 
 <b> </b>
 <br/>
-| <h3>Degree</h3>                     | <h3>Major</h3>                    | <h3>Institution</h3>              |
-| ----------------------------------- | --------------------------------- | --------------------------------- |
-| <b>Master of Science</b>            | Information Technology Management | Western Governors University      |
-| <b>Bachelor of Science</b>          | Information Technology            | Western Governors University      |
-| <b>Associate of Applied Science</b> | Cybersecurity                     | Vance-Granville Community College |
+| <h3>Degree</h3>                           | <h3>Major</h3>                    | <h3>Institution</h3>              |
+| -----------------------------------       | --------------------------------- | --------------------------------- |
+| <b>Master of Engineering (In Progress)</b>| Cybersecurity                     | Duke University                   |
+| <b>Master of Science</b>                  | Information Technology Management | Western Governors University      |
+| <b>Bachelor of Science</b>                | Information Technology            | Western Governors University      |
+| <b>Associate of Applied Science</b>       | Cybersecurity                     | Vance-Granville Community College |
 <br/>
 <br/>
 
