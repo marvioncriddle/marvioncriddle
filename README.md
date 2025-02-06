@@ -89,7 +89,7 @@
 - MTA 98-361: Software Development Fundamentals:  [Verify](https://www.credly.com/badges/45fb6a33-01e9-4f0a-9c03-47dfec382e1d/public_url) | [Learn](https://www.certiport.com/portal/common/documentlibrary/mta_od_361_external.pdf)
 
 ### Other
-- [NEWEST]Oulettes & Associates:  Leading Change | [Learn](https://www.ouellette-online.com/leading-change.html)
+- [NEWEST] Oulettes & Associates:  Leading Change | [Learn](https://www.ouellette-online.com/leading-change.html)
 - ITIL4 Foundation:  IT Service Management Certification (GR671706297MC):  [Verify](https://www.peoplecert.org/for-corporations/certificate-verification-service) | [Learn](https://www.axelos.com/certifications/itil-service-management/itil-4-foundation)
 - Zscaler:  Zscaler Internet Access (ZIA) Certified Administrator:  [Verify](https://verify.skilljar.com/c/2fknrksntukq) | [Learn](https://customer.zscaler.com/zia-certified-administrator-exam-2022)
 - LPI:  Linux Essentials:  [Verify](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000556881/hp67y36ekw) | [Learn](https://www.lpi.org/our-certifications/exam-010-objectives/)
