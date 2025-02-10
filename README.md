@@ -11,9 +11,9 @@
 ### [🖊️ Professional Experience](#professional-experience)
 ### [🎓 Education](#education)
 ### [📜 Certifications and Credentials](#certifications-and-credentials)
+### [ℹ️ About Me](#about-me)
 ### [📱 Connect with me](#connect-with-me)
 <br/>
-
 
 <h2 id="cybersecurity-projects">👨🏽‍💻 Cybersecurity Projects</h2>
 
@@ -107,6 +107,7 @@
 <br/>
 <br/>
 
+<h2 id="about-me">ℹ️ About Me </h2>
 
 <h2 id="connect-with-me">📱 Connect with Me</h2>
 
