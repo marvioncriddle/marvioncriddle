@@ -43,8 +43,9 @@
 
 <b> </b>
 <br/>
-| <h3>Position</h3>                       | <h3>Organization</h3> | <h3>Timeframe</h3>    |
-| --------------------------------------- | --------------------- | ----------------------|
+| <h3>Position</h3>                       | <h3>Organization</h3>       | <h3>Timeframe</h3>    |
+| --------------------------------------- | ----------------------------| ----------------------|
+| <b>Cybersecurity Instructor</b>         | Wake Tech Community College | April 2025 - Present    |
 | <b>Information Security Analyst II</b>  | Duke Health           | May 2024 - Present    |
 | <b>Information Security Analyst</b>     | Duke Health           | July 2023 - May 2024 (11 months) |
 | <b>NOC/SOC Analyst</b>                  | MAXX Potential        | Nov 2022 - June 2023 (8 months) |
