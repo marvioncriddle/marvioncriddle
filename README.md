@@ -19,6 +19,7 @@
 
 - ### Threat Monitoring          |  [Cloud SOC & Honeynet Implementation in Azure](https://github.com/marvioncriddle/Cloud-SOC-Honeynet-Implementation-in-Azure)
 - ### Password Security          |  [Python Password Strength Checker](https://github.com/marvioncriddle/pw-checker-app)
+- ### Access Validation          |  [Building a Public Key Infrastructure (PKI) with AD CS](https://github.com/marvioncriddle/PKIADCS/tree/main)
 <br/>
 <br/>
 
