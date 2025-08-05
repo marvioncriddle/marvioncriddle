@@ -72,6 +72,9 @@
 <h2 id="certifications-and-credentials">📜 Certifications and Credentials</h2>
 
 <b> </b>
+### ISC2
+- CISSP:  Certified Information Systems Security Professional **[Exam Passed - Validation in Progress]** | [Learn](https://www.isc2.org/certifications/cissp)
+
 ### CompTIA
 - CompTIA Security Analytics Professional:  [Verify](https://www.credly.com/badges/31fca9ba-0401-484e-b715-2d994d3a1dd8/public_url) | [Learn](https://www.comptia.org/certifications/which-certification/stackable-certifications)
 - CompTIA CySA+:  [Verify](https://www.credly.com/badges/a44b41dc-17d6-4efd-b154-06825dddfe50/public_url) | [Learn](https://www.comptia.org/certifications/cybersecurity-analyst)
@@ -103,7 +106,6 @@
 
 ### Upcoming Certs in the Pipeline
 - Azure AZ-500:  Azure Security Engineer Associate | [Learn](https://learn.microsoft.com/en-us/credentials/certifications/azure-security-engineer/?practice-assessment-type=certification)
-- CISSP:  Certified Information Systems Security Professional | [Learn](https://www.isc2.org/certifications/cissp)
 - PMI CAPM:  Certified Associate in Project Management | [Learn](https://www.pmi.org/certifications/certified-associate-capm)
 <br/>
 <br/>
