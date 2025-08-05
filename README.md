@@ -73,7 +73,7 @@
 
 <b> </b>
 ### ISC2
-- CISSP:  Certified Information Systems Security Professional **[Exam Passed - Validation in Progress]** | [Learn](https://www.isc2.org/certifications/cissp)
+- [NEWEST]CISSP:  Certified Information Systems Security Professional **[Exam Passed - Validation in Progress]** | [Learn](https://www.isc2.org/certifications/cissp)
 
 ### CompTIA
 - CompTIA Security Analytics Professional:  [Verify](https://www.credly.com/badges/31fca9ba-0401-484e-b715-2d994d3a1dd8/public_url) | [Learn](https://www.comptia.org/certifications/which-certification/stackable-certifications)
@@ -93,8 +93,8 @@
 - MTA 98-361: Software Development Fundamentals:  [Verify](https://www.credly.com/badges/45fb6a33-01e9-4f0a-9c03-47dfec382e1d/public_url) | [Learn](https://www.certiport.com/portal/common/documentlibrary/mta_od_361_external.pdf)
 
 ### Other
-- [NEWEST] Oulettes & Associates:  Leading Change | [Learn](https://www.ouellette-online.com/leading-change.html)
-- ITIL4 Foundation:  IT Service Management Certification (GR671706297MC):  [Verify](https://www.peoplecert.org/for-corporations/certificate-verification-service) | [Learn](https://www.axelos.com/certifications/itil-service-management/itil-4-foundation)
+- Oulettes & Associates:  Leading Change | [Learn](https://www.ouellette-online.com/leading-change.html)
+- ITIL4 Foundation:  IT Service Management Certification **(Copy, then click 'Verify' > GR671706297MC)**:  [Verify](https://www.peoplecert.org/for-corporations/certificate-verification-service) | [Learn](https://www.axelos.com/certifications/itil-service-management/itil-4-foundation)
 - Zscaler:  Zscaler Internet Access (ZIA) Certified Administrator:  [Verify](https://verify.skilljar.com/c/2fknrksntukq) | [Learn](https://customer.zscaler.com/zia-certified-administrator-exam-2022)
 - LPI:  Linux Essentials:  [Verify](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000556881/hp67y36ekw) | [Learn](https://www.lpi.org/our-certifications/exam-010-objectives/)
 - AWS:  Certified Cloud Practitioner:  [Verify](https://www.credly.com/badges/d22d02b4-ffde-4358-83d4-544778fb1cdc/public_url) | [Learn](https://aws.amazon.com/certification/certified-cloud-practitioner/)
