@@ -34,6 +34,7 @@
 <h2 id="case-studies">🗃️ Case Studies</h2>
 
 <b> </b>
+- ### [Driving Adoption and Governance for Delinea Secret Server](https://github.com/marvioncriddle/Delinea-Adoption)
 - ### [Defender for Endpoint Deployment](https://github.com/marvioncriddle/DefenderDeployment/tree/main)
 - ### [Optimizing Vendor Connections through Zscaler ZIA](https://github.com/marvioncriddle/Source_IP_Anchoring/tree/main)
 <br/>
