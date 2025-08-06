@@ -121,5 +121,5 @@
 
 [linkedin]: https://www.linkedin.com/in/marvioncriddle/
 [twitter]: https://twitter.com/ByteCyzeNetwrks
-[medium]:  https://medium.com/guide-title-how-to-be-a-watchman-for-cybersec
+[medium]:  https://medium.com/these-are-the-breaks
 [credly]:  https://www.credly.com/users/marvion-criddle
