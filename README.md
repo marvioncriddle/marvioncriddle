@@ -5,30 +5,14 @@
 ## Portfolio Contents
 
 
+### [🗃️ Case studies](#case-studies)
 ### [👨🏽‍💻 Cybersecurity Projects](#cybersecurity-projects)
 ### [📺 Project Videos](#project-videos)
-### [🗃️ Case studies](#case-studies)
 ### [🖊️ Professional Experience](#professional-experience)
 ### [🎓 Education](#education)
 ### [📜 Certifications and Credentials](#certifications-and-credentials)
 ### [ℹ️ About Me](#about-me)
 ### [📱 Connect with me](#connect-with-me)
-<br/>
-
-<h2 id="cybersecurity-projects">👨🏽‍💻 Cybersecurity Projects</h2>
-
-- ### Threat Monitoring          |  [Cloud SOC & Honeynet Implementation in Azure](https://github.com/marvioncriddle/Cloud-SOC-Honeynet-Implementation-in-Azure)
-- ### Password Security          |  [Python Password Strength Checker](https://github.com/marvioncriddle/pw-checker-app)
-- ### Access Validation          |  [Building a Public Key Infrastructure (PKI) with AD CS](https://github.com/marvioncriddle/PKIADCS/tree/main)
-<br/>
-<br/>
-
-
-<h2 id="project-videos">📺 Project Videos</h2>
-
-<b> </b>
-- ### Cloud SOC & Honeynet Implentation in Azure (Uploading Soon)
-<br/>
 <br/>
 
 <h2 id="case-studies">🗃️ Case Studies</h2>
@@ -40,6 +24,20 @@
 <br/>
 <br/>
 
+<h2 id="cybersecurity-projects">👨🏽‍💻 Cybersecurity Projects</h2>
+
+- ### Threat Monitoring          |  [Cloud SOC & Honeynet Implementation in Azure](https://github.com/marvioncriddle/Cloud-SOC-Honeynet-Implementation-in-Azure)
+- ### Password Security          |  [Python Password Strength Checker](https://github.com/marvioncriddle/pw-checker-app)
+- ### Access Validation          |  [Building a Public Key Infrastructure (PKI) with AD CS](https://github.com/marvioncriddle/PKIADCS/tree/main)
+<br/>
+<br/>
+
+<h2 id="project-videos">📺 Project Videos</h2>
+
+<b> </b>
+- ### Cloud SOC & Honeynet Implentation in Azure (Uploading Soon)
+<br/>
+<br/>
 
 <h2 id="professional-experience">🖊️ Professional Experience</h2>
 
