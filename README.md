@@ -5,39 +5,24 @@
 ## Portfolio Contents
 
 
-### [🗃️ Case studies](#case-studies)
-### [👨🏽‍💻 Cybersecurity Projects](#cybersecurity-projects)
-### [📺 Project Videos](#project-videos)
+### [ℹ️ About Me](#about-me)
 ### [🖊️ Professional Experience](#professional-experience)
+### [🗃️ Case studies](#case-studies)
 ### [🎓 Education](#education)
 ### [📜 Certifications and Credentials](#certifications-and-credentials)
-### [ℹ️ About Me](#about-me)
+### [👨🏽‍💻 Cybersecurity Projects](#cybersecurity-projects)
+### [📺 Project Videos](#project-videos)
 ### [📱 Connect with me](#connect-with-me)
 <br/>
 
-<h2 id="case-studies">🗃️ Case Studies</h2>
-
-<b> </b>
-- ### [Driving Adoption and Governance for Delinea Secret Server](https://github.com/marvioncriddle/Delinea-Adoption)
-- ### [Defender for Endpoint Deployment](https://github.com/marvioncriddle/DefenderDeployment/tree/main)
-- ### [Optimizing Vendor Connections through Zscaler ZIA](https://github.com/marvioncriddle/Source_IP_Anchoring/tree/main)
+<h2 id="about-me">ℹ️ About Me </h2>
 <br/>
 <br/>
-
-<h2 id="cybersecurity-projects">👨🏽‍💻 Cybersecurity Projects</h2>
-
-- ### Threat Monitoring          |  [Cloud SOC & Honeynet Implementation in Azure](https://github.com/marvioncriddle/Cloud-SOC-Honeynet-Implementation-in-Azure)
-- ### Password Security          |  [Python Password Strength Checker](https://github.com/marvioncriddle/pw-checker-app)
-- ### Access Validation          |  [Building a Public Key Infrastructure (PKI) with AD CS](https://github.com/marvioncriddle/PKIADCS/tree/main)
-<br/>
-<br/>
-
-<h2 id="project-videos">📺 Project Videos</h2>
-
-<b> </b>
-- ### Cloud SOC & Honeynet Implentation in Azure (Uploading Soon)
-<br/>
-<br/>
+<p>Strategic and solutions-driven InfoSec professional with a track record of deploying and managing enterprise
+security platforms at scale. SME for Microsoft Defender for Endpoint and Delinea Secret Server, with additional
+expertise in Microsoft Sentinel, Zscaler, and CrowdStrike. Promoted to Tier 2 at Duke Health within 10 months for
+leadership in technical execution, stakeholder engagement, and policy development. Bilingual (English/Spanish)
+with a history of aligning security operations with organizational goals. </p>
 
 <h2 id="professional-experience">🖊️ Professional Experience</h2>
 
@@ -53,6 +38,16 @@
 | <b>Radon Mitigation Technician</b>      | DTECH Services        | Dec 2020 - Feb 2022  (1 year, 3 months) |
 | <b>Radon Mitigation Technician</b>      | SWAT Environmental    | Jul 2018 - Dec 2020  (2 years, 6 months) |
 | <b>Instructor</b>                       | Capitol Christian Academy  | Dec 2013 - Dec 2017  (4 years) |
+<br/>
+<br/>
+
+
+<h2 id="case-studies">🗃️ Case Studies</h2>
+
+<b> </b>
+- ### [Driving Adoption and Governance for Delinea Secret Server](https://github.com/marvioncriddle/Delinea-Adoption)
+- ### [Defender for Endpoint Deployment](https://github.com/marvioncriddle/DefenderDeployment/tree/main)
+- ### [Optimizing Vendor Connections through Zscaler ZIA](https://github.com/marvioncriddle/Source_IP_Anchoring/tree/main)
 <br/>
 <br/>
 
@@ -112,7 +107,23 @@
 <br/>
 <br/>
 
-<h2 id="about-me">ℹ️ About Me </h2>
+
+<h2 id="cybersecurity-projects">👨🏽‍💻 Cybersecurity Projects</h2>
+
+- ### Threat Monitoring          |  [Cloud SOC & Honeynet Implementation in Azure](https://github.com/marvioncriddle/Cloud-SOC-Honeynet-Implementation-in-Azure)
+- ### Password Security          |  [Python Password Strength Checker](https://github.com/marvioncriddle/pw-checker-app)
+- ### Access Validation          |  [Building a Public Key Infrastructure (PKI) with AD CS](https://github.com/marvioncriddle/PKIADCS/tree/main)
+<br/>
+<br/>
+
+
+<h2 id="project-videos">📺 Project Videos</h2>
+
+<b> </b>
+- ### Cloud SOC & Honeynet Implentation in Azure (Uploading Soon)
+<br/>
+<br/>
+
 
 <h2 id="connect-with-me">📱 Connect with Me</h2>
 
