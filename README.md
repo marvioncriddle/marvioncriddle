@@ -45,11 +45,13 @@
 <br/>
 | <h3>Position</h3>                       | <h3>Organization</h3>       | <h3>Timeframe</h3>    |
 | --------------------------------------- | ----------------------------| ----------------------|
-| <b>Information Security Engineer II</b>  | Duke Health           | May 2024 - Present    |
-| <b>Information Security Engineer</b>     | Duke Health           | July 2023 - May 2024 (11 months) |
+| <b>Information Security Engineer II</b>  | Duke Health          | May 2024 - Present    |
+| <b>Information Security Engineer</b>     | Duke Health          | July 2023 - May 2024 (11 months) |
 | <b>NOC/SOC Analyst</b>                  | MAXX Potential        | Nov 2022 - June 2023 (8 months) |
-| <b>Service Desk Analyst II</b>          | Duke University       | June 2022 - July 2023 (14 months) |
+| <b>Service Desk Analyst II</b>          | Duke University       | June 2022 - July 2023 (1 year, 2 months) |
 | <b>Apple Support Advisor</b>            | Apple                 | Feb 2022 - July 2022  (6 months) |
+| <b>Radon Mitigation Technician</b>      | DTECH Services        | Dec 2020 - Feb 2022  (1 year, 2 months) |
+| <b>Radon Mitigation Technician</b>      | SWAT Environmental    | Jul 2018 - Dec 2020  (2 years, 6 months) |
 <br/>
 <br/>
 
