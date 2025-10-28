@@ -67,7 +67,7 @@
 
 <b> </b>
 ### ISC2
-- **[NEWEST]** CISSP:  Certified Information Systems Security Professional **[Exam Passed - Validation in Progress]** | [Learn](https://www.isc2.org/certifications/cissp)
+- **[NEWEST]** CISSP:  Certified Information Systems Security Professional | [Learn](https://www.isc2.org/certifications/cissp)
 
 ### CompTIA
 - CompTIA Security Analytics Professional:  [Verify](https://www.credly.com/badges/31fca9ba-0401-484e-b715-2d994d3a1dd8/public_url) | [Learn](https://www.comptia.org/certifications/which-certification/stackable-certifications)
