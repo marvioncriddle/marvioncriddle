@@ -16,11 +16,7 @@
 <br/>
 
 <h2 id="about-me">ℹ️ About Me </h2>
-<p>Strategic and solutions-driven InfoSec professional with a track record of deploying and managing enterprise
-security platforms at scale. SME for Microsoft Defender for Endpoint and Delinea Secret Server, with additional
-expertise in Microsoft Sentinel, Zscaler, and CrowdStrike. Promoted to Tier 2 at Duke Health within 10 months for
-leadership in technical execution, stakeholder engagement, and policy development. Bilingual (English/Spanish)
-with a history of aligning security operations with organizational goals. </p>
+<p>Strategic and solutions-driven InfoSec professional with a track record of deploying and managing enterprise security platforms at scale.  Subject-matter Expert for Microsoft Defender for Endpoint, Delinea Secret Server, and Zscaler with additional expertise in Sentinel, and CrowdStrike.  Promoted to Tier 2 at Duke Health within 10 months for leadership in technical execution, stakeholder engagement, and policy development.  Bilingual (English/Spanish) with a history of aligning security operations with organizational goals.   </p>
 <br/>
 <br/>
 
