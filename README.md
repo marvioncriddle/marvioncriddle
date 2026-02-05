@@ -16,7 +16,7 @@
 <br/>
 
 <h2 id="about-me">ℹ️ About Me </h2>
-<p>Strategic and solutions-driven InfoSec professional with a track record of deploying and managing enterprise security platforms at scale.  Subject-matter Expert for Microsoft Defender for Endpoint, Delinea Secret Server, and Zscaler with additional expertise in Sentinel, and CrowdStrike.  Promoted to Tier 2 at Duke Health within 10 months for leadership in technical execution, stakeholder engagement, and policy development.  Bilingual (English/Spanish) with a history of aligning security operations with organizational goals.   </p>
+<p>I’m a security engineer who enjoys working at the intersection of security tooling, real systems, and real people. Much of my work focuses on understanding how security controls behave in practice, especially when they intersect with application performance, user experience, and operational constraints. I gravitate toward problems that are ambiguous or misattributed, and I enjoy building practical solutions, tooling, and documentation that make security easier to operate and harder to misunderstand.   </p>
 <br/>
 <br/>
 
