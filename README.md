@@ -10,7 +10,7 @@
 ### [🗃️ Case studies](#case-studies)
 ### [🎓 Education](#education)
 ### [📜 Certifications and Credentials](#certifications-and-credentials)
-### [👨🏽‍💻 Cybersecurity Projects](#cybersecurity-projects)
+### [👨🏽‍💻 Technical Security Demonstrations](#technical-security-demonstrations)
 ### [📺 Project Videos](#project-videos)
 ### [📱 Connect with me](#connect-with-me)
 <br/>
@@ -105,7 +105,7 @@
 <br/>
 
 
-<h2 id="cybersecurity-projects">👨🏽‍💻 Cybersecurity Projects</h2>
+<h2 id="technical-security-demonstrations">👨🏽‍💻 Technical Security Demonstrations</h2>
 
 - ### Threat Monitoring          |  [Cloud SOC & Honeynet Implementation in Azure](https://github.com/marvioncriddle/Cloud-SOC-Honeynet-Implementation-in-Azure)
 - ### Password Security          |  [Python Password Strength Checker](https://github.com/marvioncriddle/pw-checker-app)
