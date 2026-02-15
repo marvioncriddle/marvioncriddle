@@ -1,4 +1,4 @@
-# Hi, I'm Marvion Criddle, MS | [Information Security Engineer](https://www.linkedin.com/in/marvioncriddle)
+# Marvion Criddle, MS, CISSP | [Information Security Engineer](https://www.linkedin.com/in/marvioncriddle)
 <br/>
 
 
