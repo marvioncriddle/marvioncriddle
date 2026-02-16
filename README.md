@@ -18,7 +18,7 @@
 <h2 id="about-me">ℹ️ About Me </h2>
 <p>I’m a security engineer who enjoys working at the intersection of security tooling, real systems, and real people. Much of my work focuses on understanding how security controls behave in practice, especially when they intersect with application performance, user experience, and operational constraints. I gravitate toward problems that are ambiguous or misattributed, and I enjoy building practical solutions, tooling, and documentation that make security easier to operate and harder to misunderstand.   </p>
 
-Click to read my </b>?Teaching Philosophy<b>: [HERE](https://github.com/marvioncriddle/Teaching_Philosophy/tree/main)
+Click to read my <b>?Teaching Philosophy</b>: [HERE](https://github.com/marvioncriddle/Teaching_Philosophy/tree/main)
 
 <br/>
 <br/>
