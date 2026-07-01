@@ -105,6 +105,7 @@
 - IC3:  Living Online:  [Verify](https://www.credly.com/badges/612fe89d-e721-4634-a21c-e563ac9a74ed/public_url) | [Learn](https://www.certiport.com/portal/common/documentlibrary/IC3_GS4_Living_Online_012015CE.pdf)
 
 ### Upcoming Certs in the Pipeline
+- EC-Council CHFI: Computer Hacking Forensic Investigator | [Learn](https://www.eccouncil.org/train-certify/computer-hacking-forensic-investigator-chfi-north-america/)
 - Azure AZ-500:  Azure Security Engineer Associate | [Learn](https://learn.microsoft.com/en-us/credentials/certifications/azure-security-engineer/?practice-assessment-type=certification)
 - PMI CAPM:  Certified Associate in Project Management | [Learn](https://www.pmi.org/certifications/certified-associate-capm)
 <br/>
@@ -116,6 +117,14 @@
 - ### Threat Monitoring          |  [Cloud SOC & Honeynet Implementation in Azure](https://github.com/marvioncriddle/Cloud-SOC-Honeynet-Implementation-in-Azure)
 - ### Password Security          |  [Python Password Strength Checker](https://github.com/marvioncriddle/pw-checker-app)
 - ### Access Validation          |  [Building a Public Key Infrastructure (PKI) with AD CS](https://github.com/marvioncriddle/PKIADCS/tree/main)
+<br/>
+<br/>
+
+
+<h2 id="dfir-labs">🕵🏽 DFIR Labs</h2>
+
+- ### Windows Failed Login Investigation          |  [Cloud SOC & Honeynet Implementation in Azure](https://github.com/marvioncriddle/Cloud-SOC-Honeynet-Implementation-in-Azure)
+
 <br/>
 <br/>
 
