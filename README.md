@@ -122,7 +122,7 @@
 
 <h2 id="dfir-labs">🕵🏽 DFIR Labs</h2>
 
-- ### Windows Failed Login Investigation          |  [Cloud SOC & Honeynet Implementation in Azure](https://github.com/marvioncriddle/Cloud-SOC-Honeynet-Implementation-in-Azure)
+- ### Windows Event Logs    |  Authentication Artifact Analysis
 
 <br/>
 <br/>
