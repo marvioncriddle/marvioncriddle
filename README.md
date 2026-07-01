@@ -12,7 +12,6 @@
 ### [📜 Certifications and Credentials](#certifications-and-credentials)
 ### [👨🏽‍💻 Technical Security Demonstrations](#technical-security-demonstrations)
 ### [🕵🏽 DFIR Labs](#dfir-labs)
-<!-- ### [📺 Project Videos](#project-videos) -->
 ### [📱 Connect with me](#connect-with-me)
 <br/>
 
@@ -125,14 +124,6 @@
 
 - ### Windows Failed Login Investigation          |  [Cloud SOC & Honeynet Implementation in Azure](https://github.com/marvioncriddle/Cloud-SOC-Honeynet-Implementation-in-Azure)
 
-<br/>
-<br/>
-
-
-<h2 id="project-videos">📺 Project Videos</h2>
-
-<b> </b>
-- ### Cloud SOC & Honeynet Implentation in Azure (Uploading Soon)
 <br/>
 <br/>
 
