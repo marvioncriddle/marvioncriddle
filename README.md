@@ -11,6 +11,7 @@
 ### [🎓 Education](#education)
 ### [📜 Certifications and Credentials](#certifications-and-credentials)
 ### [👨🏽‍💻 Technical Security Demonstrations](#technical-security-demonstrations)
+### [🕵🏽 DFIR Labs](#dfir-labs)
 ### [📺 Project Videos](#project-videos)
 ### [📱 Connect with me](#connect-with-me)
 <br/>
