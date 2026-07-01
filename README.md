@@ -122,7 +122,7 @@
 
 <h2 id="dfir-labs">🕵🏽 DFIR Labs</h2>
 
-- ### Windows Event Logs    |  Authentication Artifact Analysis
+- ### Windows Event Logs    |  [Authentication Artifact Analysis](https://github.com/marvioncriddle/Authentication-Artifact-Analysis)
 
 <br/>
 <br/>
